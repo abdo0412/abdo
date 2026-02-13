@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -43,15 +43,15 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: " i still love  u more ;)  🥰💝",  // Shows when they go past 5000%
-        high: "tahts better! 💝",              // Shows when they go past 1000%
+        high: "taht's better! 💝",              // Shows when they go past 1000%
         normal: "AHM AHM! 👀"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "my sweet lil potato ! 🎉💝💖💝💓",
-        message: "!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "my sweet lil potato! 💝💖💝💓",
+        message: "u mau accept this !",
+        emojis: "🎁💖💐💝💐❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dhkwk0dpu/video/upload/v1770990635/miki_matsubara-stay_With_Me_nixros.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
