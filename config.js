@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you love me?",                                    // First interaction
+            text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: " i still love  u more ;)  🥰💝",  // Shows when they go past 5000%
+        high: "tahts better! 💝",              // Shows when they go past 1000%
+        normal: "AHM AHM! 👀"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "my sweet lil potato ! 🎉💝💖💝💓",
-        message: "Now come get your gift,(ik its not money but this what i can do 👀 )!",
+        message: "!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
