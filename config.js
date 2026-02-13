@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "my sweet lil potato! 💝💖💝💓",
         message: "u may accept this !",
-        emojis: "🎁💖💐💝💐❤️💕"  // These will bounce around
+        emojis: "🎁💖💐🍫💐❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
